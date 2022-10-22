@@ -1,47 +1,6 @@
-<p align="center">
-  <a href="https://vuestic.dev" target="_blank">
-    <img alt="Vuestic UI Logo" width="500" src="./public/vuestic-admin-logo.png">
-  </a>
-</p>
+# App Escolar
+Esta aplicación escolar utiliza la plantilla Vuestic (<a href="https://vuestic.dev">vuestic.dev</a>)
 
-<p align="center">
-  Free and beautiful Vue.js admin template with 44+ custom UI components.</br>
-  Developed by  <a href="https://epicmax.co">Epicmax</a>.
-  Designed by <a href="#">Vasili Savitski</a>
-<br>
-Based on <a href="https://github.com/epicmaxco/vuestic-ui">Vuestic UI</a> library.
-</p>
-
-<p align="center">
-  <a href="https://vuestic.epicmax.co/admin/dashboard?theme=light"> Light theme demo </a> | <a href="https://vuestic.epicmax.co/admin/dashboard?theme=semi-dark">Semi-dark theme demo </a> | <a href="https://vuestic.epicmax.co/admin/dashboard?theme=original">Original theme demo </a> | <a href="https://vuestic.dev"> Vuestic UI documentation </a>
-</p>
-
-> Vuestic Admin is built with Vuestic UI. See our
-> <a href="https://github.com/epicmaxco/vuestic-ui/issues">issues</a>,
-> <a href="https://vuestic.dev/en/contribution/guide">contributing guide</a> and join discussions on our
-> <a href="https://discord.gg/jTKTjj2weV">discord server</a> to help us improve Vuestic Admin & Vuestic UI experience.
-
-<p align="center">
-  <a href="https://vuestic.epicmax.co" target="_blank">
-    <img src="./public/vuestic-admin-image.jpg" align="center" width="888px"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://circleci.com/gh/epicmaxco/vuestic-admin">
-    <img src="https://img.shields.io/circleci/build/github/epicmaxco/vuestic-admin/master" alt="Circleci">
-  </a>
-</p>
-
-### Documentation
-
-Documentation, guides and tutorials are available
-on <a href="https://vuestic.dev">vuestic.dev</a>
-
-### Official Discord Server
-
-Ask questions at the official
-community [discord server](https://discord.gg/jTKTjj2weV)
 
 ### Installation
 
